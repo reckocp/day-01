@@ -1,0 +1,41 @@
+ul {
+  background-color: ##5E0000;
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 225px;
+}
+
+header {
+  height: 385px;
+  background-color: #FF0000;
+  font-family: Arial;
+  margin-bottom: 0px:
+}
+
+p {
+  height: 50px;
+  background-color: #5E0000;
+  font-family: white;
+  vertical-align: middle;
+  font-family: Arial;
+}
+
+.middle {
+  height: 225px;
+  color: #5E0000;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+hr {
+  margin-top: 32px;
+  margin-bottom: 64px;
+}
+
+p1 {
+  height: 64px;
+}
+
+p2 {
+  height: 32px;
+}
